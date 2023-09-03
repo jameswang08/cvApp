@@ -1,5 +1,11 @@
+import General from "./General";
+
 function App(){
-    return <>Hello World</>
+    return(
+        <>
+            <General></General>
+        </>
+    )
 }
 
 export default App;
