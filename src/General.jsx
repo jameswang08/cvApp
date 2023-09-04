@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './General.css'
+import './forms.css'
 
 function General(){
     const [name, setName] = useState("");
